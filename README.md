@@ -2,7 +2,7 @@
 
 ## Description
 
-Simple app built from scratch in HTML using JavaScript. In this project, we created a grocery list project that allows the user to add, scratch, or delete items from a list. 
+Simple app built from scratch in HTML using JavaScript. In this project, we created a grocery list project that allows the user to add, scratch, or delete items from a list. You can see deployed app [here](https://mladen1506.github.io/grocery-list/)
 
 ## Technologies Used
 
