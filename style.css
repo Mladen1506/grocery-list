@@ -4,6 +4,7 @@
 }
 
 body {
+  font-family: "Mumblers Demo";
   background-color: lightsalmon;
 }
 
@@ -15,7 +16,7 @@ body {
 }
 
 .groceries {
-  border: 2px solid black;
+  /* border: 2px solid black; */
   width: 600px;
   min-height: 100vh;
   margin: auto;
